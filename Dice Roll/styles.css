@@ -1,0 +1,13 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 2em;
+    
+}
+#diceroll {
+  font-size: 1.2rem;         /* was size: 2ep */
+  color: rgb(226, 127, 56);  /* text color */
+  background-color: #fff;    /* optional: button background */
+  padding: 8px 16px;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+}
